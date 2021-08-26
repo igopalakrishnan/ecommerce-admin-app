@@ -1,4 +1,4 @@
-export const baseUrl = "https://ecommerce-back-end-rest-server.herokuapp.com/"
+export const baseUrl = "https://ecommerce-back-end-rest-server.herokuapp.com"
 
 export const api = `${baseUrl}/api`;
 export const generatePublicUrl = (fileName) => {
